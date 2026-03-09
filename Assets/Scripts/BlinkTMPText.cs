@@ -24,3 +24,4 @@ public class BlinkTMPText : MonoBehaviour
         tmp.color = new Color(baseColor.r, baseColor.g, baseColor.b, alpha);
     }
 }
+//test 1234
